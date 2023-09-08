@@ -16,11 +16,11 @@
   <img alt="SASS" src="/assets/SASS.png" width="50px">
   <img alt="Bootstrap" src="/assets/Bootstrap.png" width="50px">
   <img alt="Figma" src="/assets/Figma.png" width="50px">
-  <img alt="JavaScript" src="/assets/JavaScript.png" width="50px">
+  <img alt="JavaScript" src="/assets/JS.png" width="50px">
   <img alt="Git" src="/assets/Git.png" width="50px">
   <img alt="JQuery" src="/assets/JQuery.png" width="50px">
   <img alt="React" src="/assets/React.png" width="50px">
-  <img alt="ReduxTLK" src="/assets/ReduxToolkit.png" width="50px">
+  <img alt="ReduxTLK" src="/assets/ReduxTLK.png" width="50px">
 </div>
 
 <h3>
@@ -29,7 +29,7 @@
 
 <div>
   <img alt="Angular" src="/assets/Angular.png" width="50px">
-  <img alt="TypeScript" src="/assets/TypeScript.png" width="50px">
+  <img alt="TypeScript" src="/assets/TS.png" width="50px">
   <img alt="Python" src="/assets/Python.png" width="50px">
 </div>
 
